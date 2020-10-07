@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="black_concrete-seamless" tilewidth="32" tileheight="32">
+  <image source="black_concrete-seamless.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="65" name="greyConcreteSeamless" tilewidth="32" tileheight="32">
+  <image source="greyConcreteSeamless.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJy118dOAzEURuFkGTpLJEBCNNFhyZLee++hdwg99Dw6x5IjWSPsO46Txbe5dtzifyZJJRKJMpSjApWoQjVqhLZUYHtS95nGDGYxh3ksYMrSZta3sI0d7GIP+zhAWhhDzV2LZaxgFWtYxwaWLG1m/RBHOMYJTnGGc1wIY6i56xzrt+3NrF/iCte4wS3ucI+MMIaau8mxftvezPoDHvGEZ7zgFW/ICmOouTsc67ftzay/4wOf+MI3fvCLnDCGmnvAsX7b3qQ9D2EYI8IYau5Bx/pte5P2bN551xhq7qSx1lGMYRwTmNSitSHhM+add/WV8r+oRWu2TOfbzTvv6ivlf1OL1myZzrebd97VV8p/WovWpGeeeeddfaX8X2jRmvTMM++8q6+U/4wWrUnPPPPOu/pK+c9q0ZqUfzMLrr5S/nNatCbl38yCq2+c/Ptk/b8shObfJ+s+7/+4+ffJus/7P27+fbLu8/6Pm3+frPu8/+Pm3yfrPu//uPkP2Z90PnHyH7I/6XyKkX+f30KlyL/Pb6FS5D/k+ViM/Ic8H0PyX48GNAacT6H5b0YLWtGG9gLPp5D8d6IL3ehBL/rQbzk/1/ev5pb+I5fy/7fK/x/DI1pu
+  </data>
+ </layer>
+</map>
